@@ -15,7 +15,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **SoloDesk - Minimal project manager**
+- 💼 I'm currently working on: **Larafolio - Portfolio with webapp designe**
 - 🌱 I'm currently learning: **📚 Laravel**
 
  **<h3 align="left">Skills</h3>**
