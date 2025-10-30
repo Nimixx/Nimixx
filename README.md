@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nimixx.nimixx&"  />
-</div>
-
-###
-
 <h1 align="left">Hi 👋! My name is Nimixx</h1>
 
 ###
@@ -41,9 +35,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nimixx/nimixx/output/snake.svg" alt="Snake animation" />
 
 ###
