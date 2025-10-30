@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nimixx.nimixx&"  />
+</div>
+
+###
+
 <h1 align="left">Hi 👋! My name is Nimixx</h1>
 
 ###
@@ -6,8 +12,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimixx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimixx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -35,8 +43,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/nimixx/nimixx/output/snake.svg" alt="Snake animation" />
 
